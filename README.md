@@ -15,7 +15,7 @@ Notes:
 
 All steps commented with TODO proposals.
 
-Comments for some key points:
+Comments for some points:
 
 1. Data cleanning: NaNs have been identified only in the FAO, P, and K variables, which are related to agricultural practices.
 Gap filling can be performed for P and K by using the average values within each Cluster, Geozone.
