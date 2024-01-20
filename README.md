@@ -17,9 +17,9 @@ All steps commented with TODO proposals.
 
 Comments for some key points:
 
-1. Cleanning dataset: NaNs have been identified only in the FAO, P, and K variables, which are related to agricultural practices.
-Imputation can be performed for P and K by using the average values within each Cluster, Geozone.
-For FAO, imputation can be done by using the most common value within the respective Cluster, Geozone.
+1. Data cleanning: NaNs have been identified only in the FAO, P, and K variables, which are related to agricultural practices.
+Gap filling can be performed for P and K by using the average values within each Cluster, Geozone.
+For FAO, gap filling can be done by using the most common value within the respective Cluster, Geozone.
 Extreme outliers in K_[kg/ha] (< 0) were found and removed, but if the sign is an error, it can be changed or flagged as NaN and gap filling can be applied.
 N.B. Can't understand the scale of the yearly aggregate features.
 
