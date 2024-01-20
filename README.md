@@ -11,9 +11,7 @@ Pipeline use initial XGBoost with added random noise feature to detect and drop 
 
 XGBoost and CatBoost use Optuna for fine-tune hyperparameters and then they stacked for the final forecasting.
 
-Notes:
-
-All steps commented with TODO proposals.
+All steps are commented with TODO proposals.
 
 Comments for some points:
 
