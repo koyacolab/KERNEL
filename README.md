@@ -23,4 +23,4 @@ N.B. Can't understand the scale of the yearly aggregate features.
 
 2. Feature extraction: implemeted PCA only (for pipeline fast test), but because the crop growth process is divided into critical periods, the selection of specific basis function can be more suitable: 1. Piecewise Aggregate Approximation, 2. Adaptive Piecewise Constant, 3. Discrete Wavelet (Haar‐Wavelets)
 
-3. TODO: SHAP for features importance, training experiments. 
+3. TODO: SHAP for features importance; training experiments; final submission.
