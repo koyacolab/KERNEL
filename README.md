@@ -24,3 +24,6 @@ N.B. Can't understand the scale of the yearly aggregate features.
 2. Feature extraction: implemeted PCA only (for pipeline fast test), but because the crop growth process is divided into critical periods, the selection of specific basis function can be more suitable: 1. Piecewise Aggregate Approximation, 2. Adaptive Piecewise Constant, 3. Discrete Wavelet (Haar‐Wavelets)
 
 3. TODO: SHAP for features importance; training experiments; final submission.
+
+
+opinion: Predicting crop yield is an extremely complex task. Numerous factors influence yield, such as weather, soil conditions, agricultural practices, and even the presence of bees on the field. In my opinion, relying solely on classical machine learning methods might not be sufficient for this task. Agrometeorological modeling can be a valuable ally in crop yield prediction. Agricultural modeling allows the integration of various factors affecting yield—weather, soil conditions, agricultural practices—into more robust predictors of bioproductivity for forecasting the final harvest.
