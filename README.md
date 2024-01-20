@@ -26,4 +26,3 @@ N.B. Can't understand the scale of the yearly aggregate features.
 3. TODO: SHAP for features importance; training experiments; final submission.
 
 
-opinion: Predicting crop yield is an extremely complex task. Numerous factors influence yield, such as weather, soil conditions, agricultural practices, and even the presence of bees on the field. In my opinion, relying solely on classical machine learning methods might not be sufficient for this task. Agrometeorological modeling can be a valuable ally in crop yield prediction. Agricultural modeling allows the integration of various factors affecting yield—weather, soil conditions, agricultural practices—into more robust predictors of bioproductivity for forecasting the final harvest.
