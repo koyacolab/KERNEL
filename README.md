@@ -1,7 +1,7 @@
 # KERNEL
 KERNEL Competition
 
-KERNEL2.ipynd contain pipline for yield forecasting. 
+KERNEL2.ipynd - contain pipline for yield forecasting. 
 
 Basics:
 
