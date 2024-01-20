@@ -21,4 +21,4 @@ For FAO, gap filling can be done by using the most common value within the respe
 Extreme outliers in K_[kg/ha] (< 0) were found and removed, but if the sign is an error, it can be changed or flagged as NaN and gap filling can be applied.
 N.B. Can't understand the scale of the yearly aggregate features.
 
-2. Feature extraction: implemeted PCA only (for pipeline fast test), but because the growth process of the crops is divided into critical periods, the selection of specific basis function can be more suitable: 1. Discrete Wavelet (Haar‐Wavelets), 2. Piecewise Aggregate Approximation, 3. Adaptive Piecewise Constant
+2. Feature extraction: implemeted PCA only (for pipeline fast test), but because the crop growth process of the crops is divided into critical periods, the selection of specific basis function can be more suitable: 1. Discrete Wavelet (Haar‐Wavelets), 2. Piecewise Aggregate Approximation, 3. Adaptive Piecewise Constant
