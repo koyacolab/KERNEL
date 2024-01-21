@@ -3,6 +3,8 @@ KERNEL Competition
 
 KERNEL3.ipynd - contain pipline for yield forecasting. 
 
+Сoefficient of determination R2 ~ 83%.
+
 Basics:
 
 Pipeline utilizes XGBoost and CatBoost for the crop yield regression task, and stacked them finally by LinearRegression for the final yield forecasting.
