@@ -1,6 +1,6 @@
 # KERNEL Competition
 KERNEL Data Scientist interview position 
-(Offered and Accepted)
+(Offered and Accepted, Feb 2024)
 **********************************************************************************************************************************************************
 Business Task: Make an accurate forecast for each field and a weighted average (by field area) forecast for the cluster (group of fields) for the year 2020.
 
