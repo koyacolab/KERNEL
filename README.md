@@ -1,5 +1,5 @@
-# KERNEL
-KERNEL Competition 
+# KERNEL Competition
+KERNEL Data Scientist interview position 
 
 KERNEL3.ipynd - contain pipline for yield forecasting. 
 
