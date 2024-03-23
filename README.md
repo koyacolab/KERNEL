@@ -2,6 +2,18 @@
 KERNEL Data Scientist interview position 
 (Offered and Accepted)
 **********************************************************************************************************************************************************
+Business Task: Make an accurate forecast for each field and a weighted average (by field area) forecast for the cluster (group of fields) for the year 2020.
+
+Data: The dataset includes observations for several years from different fields
+- information about the field (Field, year, yield, belonging to a geographic zone*, belonging to a cluster*, FAO hybrid*, field area, applied fertilizers*, previous crop type on the field)
+- weather information (weekly weather in the current year, average weather for the previous 18 years in different months)
+- vegetation information (weekly NDVI* index)
+  
+Task: Build a model that will be robust for each year of observations. Choose a metric to evaluate the algorithm's performance independently. 
+
+Additional Task: With help of SHAP lib, describe what is most important features for the model and how they interact.
+
+**********************************************************************************************************************************************************
 
 KERNEL3.ipynd - contain pipline for yield forecasting. 
 
