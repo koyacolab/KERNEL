@@ -1,5 +1,7 @@
 # KERNEL Competition
 KERNEL Data Scientist interview position 
+(Offered and Accepted)
+**********************************************************************************************************************************************************
 
 KERNEL3.ipynd - contain pipline for yield forecasting. 
 
